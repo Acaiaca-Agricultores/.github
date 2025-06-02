@@ -19,7 +19,7 @@ A nossa missão é dar visibilidade aos pequenos agricultores, valorizando o ali
 
 <h2>🔭 Visão: </h2>
 Queremos expandir nossa atuação e nos consolidar como a principal plataforma nacional de conexão entre pequenos agricultores e consumidores.
-<h2>💎 Valores: </h2>
+<h2>🌻 Valores: </h2>
 <ul>
 <li>Sustentabilidade </li>
 <li>Protagonismo do agricultor</li>
