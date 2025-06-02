@@ -1,4 +1,4 @@
-<h1>Acaiacá 🌳</h1>
+<h1>Acaiacá 🌽</h1>
 <div align=center>
 <img width="100%" src="img-readme-acaiaca/25500F(2).jpg" />
 
@@ -13,10 +13,6 @@
 <img width="100%" src="img-readme-acaiaca/Yasmin.png" />
 
 </div>
-
-<a href="https://github.com/julliakathelyn">
-  <img src="https://github.com/julliakathelyn.png" width="100px" />
-</a>
 
 ## 👥 Equipe Acaiacá
 
