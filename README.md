@@ -18,7 +18,7 @@
   <img src="https://github.com/julliakathelyn.png" width="100px" />
 </a>
 
-## 👥 Contribuidores
+## 👥 Equipe Acaiacá
 
 <table>
   <tr>
@@ -26,7 +26,7 @@
       <a href="https://github.com/julliakathelyn">
         <img src="https://github.com/julliakathelyn.png" width="100px;" alt="Jullia Kathelyn"/>
         <br />
-        <sub><b>Jullia Kathelyn</b></sub>
+        <sub><b> :octocat: Jullia Kathelyn</b></sub>
       </a>
       <br />
       <span>Scrum Master & FullStack</span>
@@ -37,7 +37,7 @@
       <a href="https://github.com/yaslopesyweb">
         <img src="https://github.com/yaslopesyweb.png" width="100px;" alt="Yasmin Lopes"/>
         <br />
-        <sub><b>Yasmin Lopes</b></sub>
+        <sub><b>:octocat: Yasmin Lopes</b></sub>
       </a>
       <br />
       <span>Backend</span>
@@ -48,7 +48,7 @@
       <a href="https://github.com/MayanGit">
         <img src="https://github.com/MayanGit.png" width="100px;" alt="Mayan"/>
         <br />
-        <sub><b>Mayan</b></sub>
+        <sub><b>:octocat: Mayan Santos</b></sub>
       </a>
       <br />
       <span>Product Owner</span>
@@ -61,7 +61,7 @@
       <a href="https://github.com/alissonsartori">
         <img src="https://github.com/alissonsartori.png" width="100px;" alt="Alisson Sartori"/>
         <br />
-        <sub><b>Alisson Sartori</b></sub>
+        <sub><b> :octocat: Alisson Sartori</b></sub>
       </a>
       <br />
       <span>FullStack</span>
@@ -72,7 +72,7 @@
       <a href="https://github.com/manoel-pcobra">
         <img src="https://github.com/manoel-pcobra.png" width="100px;" alt="Manoel Pires"/>
         <br />
-        <sub><b>Manoel Pires</b></sub>
+        <sub><b> :octocat: Manoel Pires</b></sub>
       </a>
       <br />
       <span>UI / UX & Marketing</span>
@@ -83,7 +83,7 @@
       <a href="https://github.com/IsaacPow/IsaacPow">
         <img src="https://github.com/IsaacPow.png" width="100px;" alt="Isaac"/>
         <br />
-        <sub><b>Isaac</b></sub>
+        <sub><b>:octocat: Isaac Rodrigues </b></sub>
       </a>
       <br />
       <span>Frontend</span>
@@ -96,7 +96,7 @@
       <a href="https://github.com/vctramon">
         <img src="https://github.com/vctramon.png" width="100px;" alt="Ramon"/>
         <br />
-        <sub><b>Ramon</b></sub>
+        <sub><b>:octocat: Victor Ramon</b></sub>
       </a>
       <br />
       <span>Frontend</span>
