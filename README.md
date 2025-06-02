@@ -14,6 +14,22 @@
 
 </div>
 
+<h2>🎯 Missão: </h2>
+A nossa missão é dar visibilidade aos pequenos agricultores, valorizando o alimento feito com dedicação e carinho.
+
+<h2>🔭 Visão: </h2>
+Queremos expandir nossa atuação e nos consolidar como a principal plataforma nacional de conexão entre pequenos agricultores e consumidores.
+<h2>💎 Valores: </h2>
+<ul>
+<li>Sustentabilidade </li>
+<li>Protagonismo do agricultor</li>
+<li>Transparência no comércio</li> 
+<li>Empatia</li> 
+<li>Respeito</li>
+</ul>
+
+
+
 ## 👥 Equipe Acaiacá
 
 <table>
