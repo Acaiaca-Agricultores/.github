@@ -7,7 +7,11 @@
 
 <h2>Sobre nós:</h2>
    <p>
-      Pequenos 
+      A Acaiacá nasceu do sentimento de memória, honra e propósito. Inspirado na história real do avô da Jullia Kathelyn, o projeto surgiu da necessidade de dar voz e visibilidade aos pequenos agricultores que, assim como ele, enfrentaram desafios para viver dignamente da própria produção.
+
+Durante a pesquisa e o contato direto com produtores rurais, identificamos que muitos valorizam a conexão direta com seus clientes, desejam reconhecimento pelo que fazem e enfrentam grandes dificuldades frente à concorrência de grandes produtores.
+
+O Acaiacá é uma plataforma pensada para mudar essa realidade, aproximando quem planta com quem valoriza o alimento e o trabalho por trás dele.
    </p>
    <h2>Nossa equipe:</h2>
 <img width="100%" src="img-readme-acaiaca/Yasmin.png" />
