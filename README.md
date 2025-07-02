@@ -14,7 +14,7 @@ Durante a pesquisa e o contato direto com produtores rurais, identificamos que m
 O Acaiacá é uma plataforma pensada para mudar essa realidade, aproximando quem planta com quem valoriza o alimento e o trabalho por trás dele.
    </p>
    <h2>Nossa equipe:</h2>
-<img width="100%" src="img-readme-acaiaca/Yasmin.png" />
+<img width="100%" src="img-readme-acaiaca/equipe.png" />
 
 </div>
 
